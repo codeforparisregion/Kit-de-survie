@@ -33,6 +33,7 @@ contient les libs et outils indispensables donc postgis et pgrouting
   * Fonds de carte : 
     * Mapbox : https://www.mapbox.com/plans/
     * Intégrer les tuiles Mapquest dans OpenLayers : http://developer.mapquest.com/web/products/open/map#openlayers
+    * Tuiles OSM Fr : http://{a,b,c}.tile.openstreetmap.fr/osmfr/{z}/{x}/{y}.png (zoom max = 21)
 * Faciliter l’accès aux bases de données géospatiales en Ruby via ActiveRecord PostGIS Adapter : https://github.com/dazuma/activerecord-postgis-adapter
 
 Données CSV
