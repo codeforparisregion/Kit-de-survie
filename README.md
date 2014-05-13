@@ -68,3 +68,8 @@ Divers
   * iPhoneMockup : http://iphonemockup.lkmc.ch (iPhone, sisi - online)
 Pencil : http://pencil.evolus.vn/en-US/Home.aspx (tout, online sous forme de plugin pour Firefox + Linux & Windows)
 
+Présentations
+-------------
+
+* Video / animations de présentation : [PowToon](http://www.powtoon.com/), [Pitchy](http://www.pitchy.fr/) et [87seconds](http://www.87seconds.com/fr/homepage).
+* Présentations sexy collaboratives (et open-source) : [Slides](http://slid.es)
